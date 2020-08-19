@@ -10,6 +10,8 @@ A demo android app that demonstrates use of the Pinterest Authentication SDK and
 - ConstraintLayout
 - Pinterest SDK (auth only)
 
+Link to video of demo app: https://vimeo.com/449162327
+
 
 ![Image of Landing Screen](https://live.staticflickr.com/65535/50243596192_a43f6d655b_h.jpg)
 
