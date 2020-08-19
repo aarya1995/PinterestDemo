@@ -9,3 +9,8 @@ A demo android app that demonstrates use of the Pinterest Authentication SDK and
 - Epoxy
 - ConstraintLayout
 - Pinterest SDK (auth only)
+
+
+![Image of Landing Screen](https://live.staticflickr.com/65535/50243596192_a43f6d655b_h.jpg)
+
+![Image of Feed](https://live.staticflickr.com/65535/50242750158_0b3ff3453c_h.jpg)
