@@ -1,0 +1,3 @@
+include ':pdk'
+include ':app'
+rootProject.name = "PinterestDemo"

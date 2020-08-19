@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PinterestDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in_with_pinterest">Log in with Pinterest</string>
+    <string name="pinterest_app_id">4860778121403581401</string>
+</resources>
