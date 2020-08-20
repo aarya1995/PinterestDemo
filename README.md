@@ -8,7 +8,7 @@ A demo android app that demonstrates use of the Pinterest Authentication SDK and
 - MvRx
 - Epoxy
 - ConstraintLayout
-- Pinterest SDK (auth only)
+- Pinterest SDK (auth only, since api rate limiting is one request/hr)
 
 Link to video of demo app: https://vimeo.com/449162327
 
